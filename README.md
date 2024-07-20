@@ -1,4 +1,4 @@
-- React Timer App
+# React Timer App
 - This is a simple timer app built with React. 
 
 ## Features
